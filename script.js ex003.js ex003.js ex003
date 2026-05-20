@@ -1,0 +1,7 @@
+script.js ex003
+var media = 7; 
+var resultado = media >7 ? "Aprovado" : "Reprovado"
+console.log(r
+
+
+

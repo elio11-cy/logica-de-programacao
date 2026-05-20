@@ -1,5 +1,17 @@
-var x =1;
-var y =2;
-var nome = "Jhonata"
+/Shift + alt + A ou ctrl + ;  var, let, const/ 
+ var x = 7; / variável x recebe 7/
+let y = 5; 
+const z = 6 ;
+var nome = 'Jhonata'/*  */
+console.log(nome);
+console.log(x);
+console.log(y);
+console.log(z);
 
-console.log(`O usuário ${nome} tem nota $ {x+y}`)
+
+
+var soma = x + y;
+var soma 2= z = nome;
+
+console.log(soma);
+console.log(soma2); /* Quando é string - Concatenação */

@@ -1,0 +1,18 @@
+  /Shift + alt + A ou ctrl + ;  var, let, const/ 
+   2:  var x = 7; / variável x recebe 7/
+   3: let y = 5; 
+   4: const z = 6 ;
+   5: var nome = 'Jhonata'/*  */
+   6: console.log(nome);
+   7: console.log(x);
+   8: console.log(y);
+   9: console.log(z);
+  10: 
+  11: 
+  12: 
+  13: var soma = x + y;
+  14: var soma 2= z = nome;
+  15: 
+  16: console.log(soma);
+  17: console.log(soma2); /* Quando é string - Concatenação */
+  18: 
