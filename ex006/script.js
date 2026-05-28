@@ -1,24 +1,21 @@
-var hora = new Date () .getHours
+var hora = new Date().getHours();
+console.log(hora);
 
+if (hora === 12) {
+    console.log("boa tarde");
+}
 
-console.log(hora)
+var numero_1 = 11;
+var numero_2 = 11;
+var numero_3 = 11;
 
-var hora = Date() .getHours()
-
-it("hora == 12:00");
-    console.log("boa tarde")
-
-
-
-
-var numero_1 = 11
-var numero_2 = 10
-var numero_3 = 60
-it("numero_1 == numero_2 && numero_1 == numero_3"){
-    console.log("Os números são iguais.")
-}else if ("numero_2")
-
-    console.log("Os números são iguais.")
+if (numero_1 === numero_2 && numero_1 === numero_3) {
+    console.log("Os números são iguais.");
+} else if (numero_1 === numero_2 || numero_1 === numero_3 || numero_2 === numero_3) {
+    console.log("Dois números são iguais.");
+} else {
+    console.log("Nenhum número é igual.");
+}
 
 
 
