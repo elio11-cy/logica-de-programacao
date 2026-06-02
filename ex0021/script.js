@@ -1,0 +1,1 @@
+if(idade >=18 && doencaSelecionada)
