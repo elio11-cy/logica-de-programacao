@@ -11,7 +11,7 @@ console.log(z);
 
 
 var soma = x + y;
-var soma 2= z = nome;
+var soma2 = z + nome;
 
 console.log(soma);
 console.log(soma2); /* Quando é string - Concatenação */
